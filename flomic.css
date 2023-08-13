@@ -49,7 +49,7 @@ ul li a:hover {
 }
 
 .trio {
-    background-image: url(../img/bg.png);
+    background-image: url(/img/bg.png);
     background-size: cover;
     display: flex;
     flex-wrap: wrap;
@@ -108,7 +108,7 @@ ul li a:hover {
     
 }
 .left .bg{
-    background-image: url(../img/bg.png);
+    background-image: url(/img/bg.png);
    padding-top: 300px;
   
 }
